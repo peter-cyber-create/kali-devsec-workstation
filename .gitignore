@@ -1,0 +1,33 @@
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Cursor
+.cursor/
+
+# macOS
+.DS_Store
+
+# Linux
+.Trash-*
